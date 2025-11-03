@@ -44,5 +44,6 @@ HPS systematizes them under **one theoretical architecture**, like unification o
 ## Conclusion
 HPS formalizes percent-based units as a hierarchical mathematical structure for proportional precision. It reframes everyday percent and scientific ppm/ppb as steps in a unified continuum, creating a theory for fractional scaling at all magnitudes.
 
+## ✍️ Authorship and Original Contribution
 **Original Concept Creator:** *Shuseendran (2025)*  
 **First publication on GitHub**
